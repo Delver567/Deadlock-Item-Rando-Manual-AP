@@ -1,0 +1,65 @@
+﻿game: Manual_Deadlock_Delver
+name: Player{Number}
+description: Downsized Manual_Deadlock_Delver Template provided with repository
+
+requires:
+  version: 0.6.6 # Version of Archipelago required for this yaml to work as expected.
+
+Manual_Deadlock_Delver:
+
+  progression_balancing:
+    normal: 50
+
+  accessibility:
+    full: 50
+    minimal: 0
+
+  randomize_tier_1_items:
+    'false': 0
+    'true': 50
+
+  randomize_tier_2_items:
+    'false': 0
+    'true': 50
+
+  randomize_tier_3_items:
+    'false': 0
+    'true': 50
+
+  randomize_tier_4_items:
+    'false': 0
+    'true': 50
+
+  do_not_rando_street_brawl:
+    'false': 50
+    'true': 0
+
+  local_items:
+    []
+
+  non_local_items:
+    []
+
+  start_inventory:
+    {}
+
+  start_inventory_from_pool:
+    {}
+
+  start_hints:
+    []
+
+  start_location_hints:
+    []
+
+  exclude_locations:
+    []
+
+  priority_locations:
+    []
+
+  item_links:
+    []
+
+  plando_items:
+    []
