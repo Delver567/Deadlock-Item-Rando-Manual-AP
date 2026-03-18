@@ -17,12 +17,13 @@ Goal Item Requirements: Unlocking all Characters
 
 Starting Items: 3 random characters
 Items: All purchasable items (not legendary), Street Brawl gamemode, all characters and their wishes
+Filler Item Name: Soul
 
 
 Locations:
- - Gameplay: Destroying every type of tower, Team claiming the rejuvenator, collecting increments of souls, kills, damage, and healing,
-             getting the most souls/kills/assists/plyr dmg/obj dmg/healing of all players, getting MVP, getting Key Player 3 times,
-             winning in every mode, and getting a legendary item (only in Street Brawl)
+ - Gameplay: Destroying every type of tower, delivering the soul urn, Team claiming the rejuvenator, collecting increments of
+             souls, kills, damage, and healing, getting the most souls/kills/assists/plyr dmg/obj dmg/healing of all players,
+             getting MVP, getting Key Player 3 times, winning in every mode, and getting a legendary item (only in Street Brawl)
 
  - Items: Buying a randomized item
 
@@ -31,13 +32,13 @@ Locations:
 
 
 Extra Rules:
- - Map Checks: If a check doesn't say "Team", you must be significantly involved in, OR present at the fight leading to a tower's destruction
+ - Map Checks: If a check doesn't say "Team", you must be significantly involved in, OR present at the finish or fight leading to a check
                If a check does say "Team", anyone on your Team may do it without your involvement and the check will count
 
  - Bots: All bot games must either be the "HARD" difficulty, or the "Online Co-op" standard mode. Bots count towards your character checks,
          but you must play at least "Online Co-Op" to achieve the MVP/Key Player/Most Stats checks (don't throw games you don't have to!)
 
- - "Buying" Items: An item counts as bought if it is purchased and cannot be sold at full price
+ - "Buying" Items: An item counts as bought if it is unlocked, obtained, and is not sold at full price
 
  - Street Brawl: You must avoid items you don't have as much as possible. If an item you don't have is forced, you can play with that item,
                  but it will not count towards your item totals (any other penalty is up to user).
