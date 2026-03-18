@@ -31,8 +31,8 @@ Manual_Deadlock_Delver:
     'true': 50
 
   do_not_rando_street_brawl:
-    'false': 50
-    'true': 0
+    'false': 0
+    'true': 50
 
   local_items:
     []
