@@ -1,0 +1,68 @@
+This file contains extra info about the AP that may or may not be helpful
+
+Includes some design reasoning and extra things, and may be updated over time
+
+Total Item Count: 270
+
+Item Count Breakdown:
+- Characters: 38 * 2 = 76
+- Character Wishes (guaranteed check spots): 38
+- Street Brawl: 1 * 2 = 2
+- Total Tiered Items: 154
+  - Tier I Items: 22
+  - Tier II Items: 42
+  - Tier III Items: 46
+  - Tier IV Items: 44
+
+Total Location Count: 303
+Filler Count: 33 (35 if Street Brawl isn't randomized)
+
+
+Something that felt like it didn't fit in the rules file:
+I recommend keeping a scratch paper file or something to keep track of your incremental stats.
+Also let me know if they need to be nerfed or changed if people keep getting locked behind the later increments.
+I will need ideas for alternatives though, as there are 40, keeping the location count high enough for the AP to work.
+
+
+For character tracking: what bots are currently not in the game (or I just haven't seen, may be wrong).
+100% Sure: Doorman, Drifter, Mirage, Pocket, Sinclair, Victor
+Kind of Sure: Graves, Venator
+
+I figured out that they shadow update the bot roster (the last was with the big balance patch *after* the
+new characters), so let me know if this list needs changing.
+
+
+How the characters are sorted into categories: I wanted this to be in line with the
+theming and lore of the game. Some of these (Wraith/McGnnis especially) are highly debatable,
+but that's why the explanation is here. Characters are sorted alphabetically.
+
+Power - The Selfish few who prioritize themselves and their goals above
+all else, aiming to take a seat above or with authority, or aiming to
+simply gain power to achieve their own goals.
+
+- Apollo, Graves, Mina, Paradox, Seven, Vindicta, Yamato
+
+Resolution - Those whose lives led them to a problem that must be solved,
+but their lives (or deaths) shall never be the same.
+
+- Grey Talon, Holliday, Lady Geist, Pocket, Sinclair
+
+Normalcy - Those who wish to return to what once was, or for those who
+want their own inner peace fulfilled in a different kind of life.
+
+- Calico, Dynamo, Mo & Krill, Rem, Shiv, Silver, Vyper, Wraith
+
+Answers - Those whose paths were shrouded in mystery from the beginning,
+questions must be answered before the path can be further tread.
+
+- Abrams, Kelvin, Paige, Victor
+
+True Good - The selfless who prioritize others before themselves, no matter
+how their help may actually affect the world around them.
+
+- Bebop, Celeste, Infernus, Ivy, Mirage, Viscous, Warden
+
+Mystery - Those whose wish isn't clear, or has yet to be formed. However,
+the Patrons may be able to convince them to join their cause...
+
+- Billy, Doorman, Drifter, Haze, Lash, McGinnis, Venator
