@@ -25,7 +25,7 @@ I will need ideas for alternatives though, as there are 40, keeping the location
 
 
 For character tracking: what bots are currently not in the game (or I just haven't seen, may be wrong).
-100% Sure: Doorman, Drifter, Mirage, Pocket, Sinclair, Victor
+100% Sure: Doorman, Drifter, Lash, Mina, Mirage, Pocket, Sinclair, Victor
 Kind of Sure: Graves, Venator
 
 I figured out that they shadow update the bot roster (the last was with the big balance patch *after* the
@@ -33,7 +33,7 @@ new characters), so let me know if this list needs changing.
 
 
 How the characters are sorted into categories: I wanted this to be in line with the
-theming and lore of the game. Some of these (Wraith/McGnnis especially) are highly debatable,
+theming and lore of the game. Some of these (Wraith/McGinnis especially) are highly debatable,
 but that's why the explanation is here. Characters are sorted alphabetically.
 
 Power - The Selfish few who prioritize themselves and their goals above
@@ -57,7 +57,7 @@ questions must be answered before the path can be further tread.
 
 - Abrams, Kelvin, Paige, Victor
 
-True Good - The selfless who prioritize others before themselves, no matter
+True Good - The Selfless who prioritize others before themselves, no matter
 how their help may actually affect the world around them.
 
 - Bebop, Celeste, Infernus, Ivy, Mirage, Viscous, Warden
