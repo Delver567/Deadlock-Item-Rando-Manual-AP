@@ -1,0 +1,22 @@
+{
+  "Item T1": {
+    "yaml_option": [
+      "randomize_tier_1_items"
+    ]
+  },
+  "Item T2": {
+    "yaml_option": [
+      "randomize_tier_2_items"
+    ]
+  },
+  "Item T3": {
+    "yaml_option": [
+      "randomize_tier_3_items"
+    ]
+  },
+  "Item T4": {
+    "yaml_option": [
+      "randomize_tier_4_items"
+    ]
+  }
+}

@@ -1,0 +1,1901 @@
+[
+  {
+    "count": "2",
+    "name": "Character - Abrams",
+    "category": [
+      "Character",
+      "Answers"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Character - Apollo",
+    "category": [
+      "Character",
+      "Power"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Character - Bebop",
+    "category": [
+      "Character",
+      "True Good"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Character - Billy",
+    "category": [
+      "Character",
+      "Mystery"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Character - Calico",
+    "category": [
+      "Character",
+      "Normalcy"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Character - Celeste",
+    "category": [
+      "Character",
+      "True Good"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Character - Doorman",
+    "category": [
+      "Character",
+      "Mystery"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Character - Drifter",
+    "category": [
+      "Character",
+      "Mystery"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Character - Dynamo",
+    "category": [
+      "Character",
+      "Normalcy"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Character - Graves",
+    "category": [
+      "Character",
+      "Power"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Character - Grey Talon",
+    "category": [
+      "Character",
+      "Resolution"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Character - Haze",
+    "category": [
+      "Character",
+      "Mystery"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Character - Holliday",
+    "category": [
+      "Character",
+      "Resolution"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Character - Infernus",
+    "category": [
+      "Character",
+      "True Good"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Character - Ivy",
+    "category": [
+      "Character",
+      "True Good"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Character - Kelvin",
+    "category": [
+      "Character",
+      "Answers"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Character - Lady Geist",
+    "category": [
+      "Character",
+      "Resolution"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Character - Lash",
+    "category": [
+      "Character",
+      "Mystery"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Character - McGinnis",
+    "category": [
+      "Character",
+      "Mystery"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Character - Mina Ha",
+    "category": [
+      "Character",
+      "Power"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Character - Mirage",
+    "category": [
+      "Character",
+      "True Good"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Character - Mo + Krill",
+    "category": [
+      "Character",
+      "Normalcy"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Character - Paige",
+    "category": [
+      "Character",
+      "Answers"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Character - Paradox",
+    "category": [
+      "Character",
+      "Power"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Character - Pocket",
+    "category": [
+      "Character",
+      "Resolution"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Character - Rem",
+    "category": [
+      "Character",
+      "Normalcy"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Character - Seven",
+    "category": [
+      "Character",
+      "Power"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Character - Shiv",
+    "category": [
+      "Character",
+      "Normalcy"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Character - Silver",
+    "category": [
+      "Character",
+      "Normalcy"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Character - Sinclair",
+    "category": [
+      "Character",
+      "Resolution"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Character - Venator",
+    "category": [
+      "Character",
+      "Mystery"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Character - Victor",
+    "category": [
+      "Character",
+      "Answers"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Character - Vindicta",
+    "category": [
+      "Character",
+      "Power"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Character - Viscous",
+    "category": [
+      "Character",
+      "True Good"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Character - Vyper",
+    "category": [
+      "Character",
+      "Normalcy"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Character - Warden",
+    "category": [
+      "Character",
+      "True Good"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Character - Wraith",
+    "category": [
+      "Character",
+      "Normalcy"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Character - Yamato",
+    "category": [
+      "Character",
+      "Power"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T1 Close Quarters",
+    "category": [
+      "Orange",
+      "Item T1",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T1 Extended Magazine",
+    "category": [
+      "Orange",
+      "Item T1",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T1 Headshot Booster",
+    "category": [
+      "Orange",
+      "Item T1",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T1 High-Velocity Rounds",
+    "category": [
+      "Orange",
+      "Item T1",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T1 Monster Rounds",
+    "category": [
+      "Orange",
+      "Item T1",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T1 Rapid Rounds",
+    "category": [
+      "Orange",
+      "Item T1",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T1 Restorative Shot",
+    "category": [
+      "Orange",
+      "Item T1",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "G-T1 Extra Health",
+    "category": [
+      "Green",
+      "Item T1",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "G-T1 Extra Regen",
+    "category": [
+      "Green",
+      "Item T1",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "G-T1 Extra Stamina",
+    "category": [
+      "Green",
+      "Item T1",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "G-T1 Healing Rite",
+    "category": [
+      "Green",
+      "Item T1",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "G-T1 Melee Lifesteal",
+    "category": [
+      "Green",
+      "Item T1",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "G-T1 Rebuttal",
+    "category": [
+      "Green",
+      "Item T1",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "G-T1 Sprint Boots",
+    "category": [
+      "Green",
+      "Item T1",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "P-T1 Extra Charge",
+    "category": [
+      "Purple",
+      "Item T1",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "P-T1 Extra Spirit",
+    "category": [
+      "Purple",
+      "Item T1",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "P-T1 Golden Goose Egg",
+    "category": [
+      "Purple",
+      "Item T1",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "P-T1 Mystic Burst",
+    "category": [
+      "Purple",
+      "Item T1",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "P-T1 Mystic Expansion",
+    "category": [
+      "Purple",
+      "Item T1",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "P-T1 Mystic Regeneration",
+    "category": [
+      "Purple",
+      "Item T1",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "P-T1 Rusted Barrel",
+    "category": [
+      "Purple",
+      "Item T1",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "P-T1 Spirit Strike",
+    "category": [
+      "Purple",
+      "Item T1",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T2 Active Reload",
+    "category": [
+      "Orange",
+      "Item T2",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T2 Fleetfoot",
+    "category": [
+      "Orange",
+      "Item T2",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T2 Intensifying Magazine",
+    "category": [
+      "Orange",
+      "Item T2",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T2 Kinetic Dash",
+    "category": [
+      "Orange",
+      "Item T2",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T2 Long Range",
+    "category": [
+      "Orange",
+      "Item T2",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T2 Melee Charge",
+    "category": [
+      "Orange",
+      "Item T2",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T2 Mystic Shot",
+    "category": [
+      "Orange",
+      "Item T2",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T2 Opening Rounds",
+    "category": [
+      "Orange",
+      "Item T2",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T2 Recharging Rush",
+    "category": [
+      "Orange",
+      "Item T2",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T2 Slowing Bullets",
+    "category": [
+      "Orange",
+      "Item T2",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T2 Spirit Shredder Bullets",
+    "category": [
+      "Orange",
+      "Item T2",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T2 Split Shot",
+    "category": [
+      "Orange",
+      "Item T2",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T2 Stalker",
+    "category": [
+      "Orange",
+      "Item T2",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T2 Swift Striker",
+    "category": [
+      "Orange",
+      "Item T2",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T2 Titanic Magazine",
+    "category": [
+      "Orange",
+      "Item T2",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T2 Weakening Headshot",
+    "category": [
+      "Orange",
+      "Item T2",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "G-T2 Battle Vest",
+    "category": [
+      "Green",
+      "Item T2",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "G-T2 Bullet Lifesteal",
+    "category": [
+      "Green",
+      "Item T2",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "G-T2 Debuff Reducer",
+    "category": [
+      "Green",
+      "Item T2",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "G-T2 Enchanter's Emblem",
+    "category": [
+      "Green",
+      "Item T2",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "G-T2 Enduring Speed",
+    "category": [
+      "Green",
+      "Item T2",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "G-T2 Guardian Ward",
+    "category": [
+      "Green",
+      "Item T2",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "G-T2 Healbane",
+    "category": [
+      "Green",
+      "Item T2",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "G-T2 Healing Booster",
+    "category": [
+      "Green",
+      "Item T2",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "G-T2 Reactive Barrier",
+    "category": [
+      "Green",
+      "Item T2",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "G-T2 Restorative Locket",
+    "category": [
+      "Green",
+      "Item T2",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "G-T2 Return Fire",
+    "category": [
+      "Green",
+      "Item T2",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "G-T2 Spirit Lifesteal",
+    "category": [
+      "Green",
+      "Item T2",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "G-T2 Spirit Shielding",
+    "category": [
+      "Green",
+      "Item T2",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "G-T2 Weapon Shielding",
+    "category": [
+      "Green",
+      "Item T2",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "P-T2 Arcane Surge",
+    "category": [
+      "Purple",
+      "Item T2",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "P-T2 Bullet Resist Shredder",
+    "category": [
+      "Purple",
+      "Item T2",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "P-T2 Cold Front",
+    "category": [
+      "Purple",
+      "Item T2",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "P-T2 Compress Cooldown",
+    "category": [
+      "Purple",
+      "Item T2",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "P-T2 Duration Extender",
+    "category": [
+      "Purple",
+      "Item T2",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "P-T2 Improved Spirit",
+    "category": [
+      "Purple",
+      "Item T2",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "P-T2 Mystic Slow",
+    "category": [
+      "Purple",
+      "Item T2",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "P-T2 Mystic Vulnerability",
+    "category": [
+      "Purple",
+      "Item T2",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "P-T2 Quicksilver Reload",
+    "category": [
+      "Purple",
+      "Item T2",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "P-T2 Slowing Hex",
+    "category": [
+      "Purple",
+      "Item T2",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "P-T2 Spirit Sap",
+    "category": [
+      "Purple",
+      "Item T2",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "P-T2 Suppressor",
+    "category": [
+      "Purple",
+      "Item T2",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T3 Alchemical Fire",
+    "category": [
+      "Orange",
+      "Item T3",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T3 Ballistic Enchantment",
+    "category": [
+      "Orange",
+      "Item T3",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T3 Berserker",
+    "category": [
+      "Orange",
+      "Item T3",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T3 Blood Tribute",
+    "category": [
+      "Orange",
+      "Item T3",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T3 Burst Fire",
+    "category": [
+      "Orange",
+      "Item T3",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T3 Cultist Sacrifice",
+    "category": [
+      "Orange",
+      "Item T3",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T3 Escalating Resilience",
+    "category": [
+      "Orange",
+      "Item T3",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T3 Express Shot",
+    "category": [
+      "Orange",
+      "Item T3",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T3 Headhunter",
+    "category": [
+      "Orange",
+      "Item T3",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T3 Heroic Aura",
+    "category": [
+      "Orange",
+      "Item T3",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T3 Hollow Point",
+    "category": [
+      "Orange",
+      "Item T3",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T3 Hunter's Aura",
+    "category": [
+      "Orange",
+      "Item T3",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T3 Point Blank",
+    "category": [
+      "Orange",
+      "Item T3",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T3 Sharpshooter",
+    "category": [
+      "Orange",
+      "Item T3",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T3 Spirit Rend",
+    "category": [
+      "Orange",
+      "Item T3",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T3 Tesla Bullets",
+    "category": [
+      "Orange",
+      "Item T3",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T3 Toxic Bullets",
+    "category": [
+      "Orange",
+      "Item T3",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T3 Weighted Shots",
+    "category": [
+      "Orange",
+      "Item T3",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "G-T3 Bullet Resilience",
+    "category": [
+      "Green",
+      "Item T3",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "G-T3 Counterspell",
+    "category": [
+      "Green",
+      "Item T3",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "G-T3 Dispel Magic",
+    "category": [
+      "Green",
+      "Item T3",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "G-T3 Fortitude",
+    "category": [
+      "Green",
+      "Item T3",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "G-T3 Fury Trance",
+    "category": [
+      "Green",
+      "Item T3",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "G-T3 Healing Nova",
+    "category": [
+      "Green",
+      "Item T3",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "G-T3 Lifestrike",
+    "category": [
+      "Green",
+      "Item T3",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "G-T3 Majestic Leap",
+    "category": [
+      "Green",
+      "Item T3",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "G-T3 Metal Skin",
+    "category": [
+      "Green",
+      "Item T3",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "G-T3 Rescue Beam",
+    "category": [
+      "Green",
+      "Item T3",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "G-T3 Spirit Resilience",
+    "category": [
+      "Green",
+      "Item T3",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "G-T3 Stamina Mastery",
+    "category": [
+      "Green",
+      "Item T3",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "G-T3 Trophy Collector",
+    "category": [
+      "Green",
+      "Item T3",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "G-T3 Veil Walker",
+    "category": [
+      "Green",
+      "Item T3",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "G-T3 Warp Stone",
+    "category": [
+      "Green",
+      "Item T3",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "P-T3 Decay",
+    "category": [
+      "Purple",
+      "Item T3",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "P-T3 Disarming Hex",
+    "category": [
+      "Purple",
+      "Item T3",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "P-T3 Greater Expansion",
+    "category": [
+      "Purple",
+      "Item T3",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "P-T3 Knockdown",
+    "category": [
+      "Purple",
+      "Item T3",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "P-T3 Radiant Regeneration",
+    "category": [
+      "Purple",
+      "Item T3",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "P-T3 Rapid Recharge",
+    "category": [
+      "Purple",
+      "Item T3",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "P-T3 Silence Wave",
+    "category": [
+      "Purple",
+      "Item T3",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "P-T3 Spirit Snatch",
+    "category": [
+      "Purple",
+      "Item T3",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "P-T3 Superior Cooldown",
+    "category": [
+      "Purple",
+      "Item T3",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "P-T3 Superior Duration",
+    "category": [
+      "Purple",
+      "Item T3",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "P-T3 Surge of Power",
+    "category": [
+      "Purple",
+      "Item T3",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "P-T3 Tankbuster",
+    "category": [
+      "Purple",
+      "Item T3",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "P-T3 Torment Pulse",
+    "category": [
+      "Purple",
+      "Item T3",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T4 Armor Piercing Rounds",
+    "category": [
+      "Orange",
+      "Item T4",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T4 Capacitor",
+    "category": [
+      "Orange",
+      "Item T4",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T4 Crippling Headshot",
+    "category": [
+      "Orange",
+      "Item T4",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T4 Crushing Fists",
+    "category": [
+      "Orange",
+      "Item T4",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T4 Frenzy",
+    "category": [
+      "Orange",
+      "Item T4",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T4 Glass Cannon",
+    "category": [
+      "Orange",
+      "Item T4",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T4 Lucky Shot",
+    "category": [
+      "Orange",
+      "Item T4",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T4 Ricochet",
+    "category": [
+      "Orange",
+      "Item T4",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T4 Shadow Weave",
+    "category": [
+      "Orange",
+      "Item T4",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T4 Silencer",
+    "category": [
+      "Orange",
+      "Item T4",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T4 Spellslinger",
+    "category": [
+      "Orange",
+      "Item T4",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "O-T4 Spiritual Overflow",
+    "category": [
+      "Orange",
+      "Item T4",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "G-T4 Cheat Death",
+    "category": [
+      "Green",
+      "Item T4",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "G-T4 Colossus",
+    "category": [
+      "Green",
+      "Item T4",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "G-T4 Divine Barrier",
+    "category": [
+      "Green",
+      "Item T4",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "G-T4 Diviner's Kevlar",
+    "category": [
+      "Green",
+      "Item T4",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "G-T4 Healing Tempo",
+    "category": [
+      "Green",
+      "Item T4",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "G-T4 Infuser",
+    "category": [
+      "Green",
+      "Item T4",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "G-T4 Inhibitor",
+    "category": [
+      "Green",
+      "Item T4",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "G-T4 Juggernaut",
+    "category": [
+      "Green",
+      "Item T4",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "G-T4 Leech",
+    "category": [
+      "Green",
+      "Item T4",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "G-T4 Phantom Strike",
+    "category": [
+      "Green",
+      "Item T4",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "G-T4 Plated Armor",
+    "category": [
+      "Green",
+      "Item T4",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "G-T4 Siphon Bullets",
+    "category": [
+      "Green",
+      "Item T4",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "G-T4 Spellbreaker",
+    "category": [
+      "Green",
+      "Item T4",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "G-T4 Unstoppable",
+    "category": [
+      "Green",
+      "Item T4",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "G-T4 Vampiric Burst",
+    "category": [
+      "Green",
+      "Item T4",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "G-T4 Witchmail",
+    "category": [
+      "Green",
+      "Item T4",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "P-T4 Arctic Blast",
+    "category": [
+      "Purple",
+      "Item T4",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "P-T4 Boundless Spirit",
+    "category": [
+      "Purple",
+      "Item T4",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "P-T4 Cursed Relic",
+    "category": [
+      "Purple",
+      "Item T4",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "P-T4 Echo Shard",
+    "category": [
+      "Purple",
+      "Item T4",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "P-T4 Escalating Exposure",
+    "category": [
+      "Purple",
+      "Item T4",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "P-T4 Ethereal Shift",
+    "category": [
+      "Purple",
+      "Item T4",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "P-T4 Focus Lens",
+    "category": [
+      "Purple",
+      "Item T4",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "P-T4 Lightning Scroll",
+    "category": [
+      "Purple",
+      "Item T4",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "P-T4 Magic Carpet",
+    "category": [
+      "Purple",
+      "Item T4",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "P-T4 Mercurial Magnum",
+    "category": [
+      "Purple",
+      "Item T4",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "P-T4 Mystic Reverb",
+    "category": [
+      "Purple",
+      "Item T4",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "P-T4 Refresher",
+    "category": [
+      "Purple",
+      "Item T4",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "P-T4 Scourge",
+    "category": [
+      "Purple",
+      "Item T4",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "P-T4 Spirit Burn",
+    "category": [
+      "Purple",
+      "Item T4",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "P-T4 Transcendent Cooldown",
+    "category": [
+      "Purple",
+      "Item T4",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "P-T4 Vortex Web",
+    "category": [
+      "Purple",
+      "Item T4",
+      "Item"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Street Brawl",
+    "category": [
+      "Street Brawl",
+      "Gameplay"
+    ],
+    "progression": true
+  },
+  {
+    "count": "38",
+    "name": "Wish",
+    "category": [
+      "Victory"
+    ],
+    "progression": true
+  }
+]

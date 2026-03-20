@@ -1,0 +1,22 @@
+{
+  "Gameplay": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Character": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Orange Item": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Green Item": {
+    "connects_to": [],
+    "requires": ""
+  },
+  "Purple Item": {
+    "connects_to": [],
+    "requires": ""
+  }
+}
