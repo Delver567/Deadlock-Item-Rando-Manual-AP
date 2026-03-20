@@ -11,11 +11,11 @@ HIGHLY RECOMMENDED TO NOT RANDOMIZE ALL ITEMS FOR BETTER EXPERIENCE
 Optional to randomize Street Brawl, as it has faster games, but locks in items you may not have, and many gameplay checks focus on Standard mode
 
 
-Victory: Play a game AS/WITH/AGAINST an unlocked character to collect a check and their wish, and collect them all for the Patron to grant your wish and goal!
+Victory: Play a game AS/WITH/AGAINST an unlocked Character to collect a check and their wish, and collect them all for the Patron to grant your wish and goal!
 Goal Item Requirements: Unlocking all Characters
 
 
-Starting Items: 3 random characters
+Starting Items: 3 random Characters
 Items: All purchasable items (not legendary), Street Brawl gamemode, all characters and their wishes
 Filler Item Name: Soul
 
@@ -35,7 +35,7 @@ Extra Rules:
  - Map Checks: If a check doesn't say "Team", you must be significantly involved in, OR present at the finish or fight leading to a check
                If a check does say "Team", anyone on your Team may do it without your involvement and the check will count
 
- - Bots: All bot games must either be the "HARD" difficulty, or the "Online Co-op" standard mode. Bots count towards your character checks,
+ - Bots: All bot games must either be the "Hard" difficulty, or the "Online Co-op" standard mode. Bots count towards your character checks,
          but you must play at least "Online Co-Op" to achieve the MVP/Key Player/Most Stats checks (don't throw games you don't have to!)
 
  - "Buying" Items: An item counts as bought if it is unlocked, obtained, and is not sold at full price
@@ -47,6 +47,6 @@ Extra Rules:
 
  - Healing: Healing is defined in this AP as Healing + Barrier Absorb. Self Damage is nullified bc of characters that focus on it (Geist, Victor)
 
- - Early Difficulty Spike: Due to the nature of the AP locking away accessible gameplay, getting maximized gameplay checks may prove exceedingly or
-                           impossibly difficult, locking players out early either until more items are unlocked, or, in the worst case, until that
-                           progression is somehow achieved anyways. In this case, you may bypass the "in game with other players" requirements for those checks.
+ - Early Difficulty Spike: Due to the nature of the AP locking away accessible gameplay, getting maximized gameplay checks may prove exceedingly or impossibly 
+                           difficult, locking players out early either until more items are unlocked, or, in the worst case, until that progression is somehow
+                           achieved anyways. In this case, you may bypass the "in game with other players" requirements for those checks.
