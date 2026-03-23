@@ -1,6 +1,6 @@
 ﻿game: Manual_Deadlock_Delver
 name: Player{Number}
-description: Downsized Manual_Deadlock_Delver Template provided with repository
+description: Downsized Manual_Deadlock_Delver Template provided with github
 
 requires:
   version: 0.6.6 # Version of Archipelago required for this yaml to work as expected.
