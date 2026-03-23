@@ -15,26 +15,50 @@ Item Count Breakdown:
   - Tier IV Items: 44
 
 Total Location Count: 303
+Total Location Count - Guaranteed Checks: 265
 Filler Count: 33 (35 if Street Brawl isn't randomized)
 
+Explanation for ranking of turning off items (in order):
+- Tier IV: Most expensive set but matching the same number of items as II and III. They're much harder to obtain,
+  the randomization locks out late game items, and it has a ridiculous number of active items (which you usually
+  max 4 per game if you focus on them, but it still isn't enough to keep up with). Even in Street Brawl, you
+  obtain much less of them than Tier II and III items. I think saving the headache here, especially since it only
+  affects late game commitments, is the best first option.
+- Tier II: A very good item set, but that means if it is randomized, you lose all early game viability. If you keep
+  the items, you'll have options you can fall back on in early-mid game that can keep up with games that you don't
+  have many good choices left, and more consistent games overall early in the AP. If you find that you want to play
+  bots a whole lot more than normal games until you get more items, consider turning this set off.
+- Tier III: I see this as the lesser of the 3 evils in the big item sets. It's not particularly early, but not
+  particularly late either. The benefits of keeping them are also the same as the others, but in a mediocre way.
+  For that, I think it's the ideal item set to randomize for the challenge.
+- Tier I: This set should rank 5th/4, and I think you should always randomize this. If you keep these items, your
+  early game will be very straightforward, but also very weak until you get other, higher ranked items. I think Tier
+  II is a better balanced version of Tier I in that regard, as it provides more consistency and a bit more challenge
+  in making your early games work. Still though, it's the smallest item set, and the items are really easy to pick
+  up because of their price (opposite in Street Brawl, you can only pick up 1-2), so I don't think it's valid to ever
+  not randomize them unless you're turning off all item randomization entirely.
 
 Something that felt like it didn't fit in the rules file:
-I recommend keeping a scratch paper file or something to keep track of your incremental stats.
+I recommend keeping a scratch paper file or something to keep track of your Stat Totals.
+
 Also let me know if they need to be nerfed or changed if people keep getting locked behind the later increments.
-I will need ideas for alternatives though, as there are 40, keeping the location count high enough for the AP to work.
+ - I think I have ideas for balancing generation for the later increments into later spheres using regions?
+   Not sure if it would work, though, and the checks aren't usually that bad that I need to commit to trying to do
+   something like that
+I will need ideas for alternatives if removing them, as there are 40, keeping the location count high enough for the
+AP to work (by 5-7 if they were all removed).
 
 
-For character tracking: what bots are currently not in the game (or I just haven't seen, may be wrong).
-100% Sure: Doorman, Drifter, Lash, Mina, Mirage, Pocket, Sinclair, Victor
-Kind of Sure: Graves, Venator
+For character tracking: what bots are currently not in the game (or I just haven't seen, may be wrong)
+- Doorman, Drifter, Graves, Lash, Mina, Mirage, Pocket, Sinclair, Venator, Victor
 
-I figured out that they shadow update the bot roster (the last was with the big balance patch *after* the
-new characters), so let me know if this list needs changing.
+I figured out that they shadow update the bot roster (the last was with the March 6, 2026 Gameplay Update with no
+mentions of it), so let me know if this list needs changing.
 
 
 How the characters are sorted into categories: I wanted this to be in line with the
-theming and lore of the game. Some of these (Wraith/McGinnis especially) are highly debatable,
-but that's why the explanation is here. Characters are sorted alphabetically.
+theming and lore of the game. Some of these are highly debatable, but that's why the
+explanation is here. Characters are sorted alphabetically.
 
 Power - The Selfish few who prioritize themselves and their goals above
 all else, aiming to take a seat above or with authority, or aiming to
